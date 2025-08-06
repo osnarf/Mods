@@ -1,0 +1,1 @@
+The LDO 9T pinion on the motor from the Galileo 2 kit protrudes 1mm further from the stepper, interfering with the idler arm. This mod adds a recessed area with clearance for the pinion. I used an ultra low profile scerw to hold the bearing, but a BHCS may work. 
